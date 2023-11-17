@@ -299,7 +299,7 @@ if (isset($_POST['pembayaran'])) {
 										<a class="text-muted" href="https://www.instagram.com/jokowi/?hl=en" target="_blank">hubungi</a>
 									</li>
 									<li class="list-inline-item">
-										<a class="text-muted" href="https://www.instagram.com/jadihacker.id/?hl=en" target="_blank">Privacy</a>
+										<a class="text-muted" href="https://www.instagram.com/zoraaz_/" target="_blank">Privacy</a>
 									</li>
 									<li class="list-inline-item">
 										<a class="text-muted" href="https://adminkit.io/" target="_blank">Terms</a>
